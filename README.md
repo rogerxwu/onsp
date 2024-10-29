@@ -9,4 +9,4 @@ ONSP(Open Network Source-of-Truth) is a scalable and high available network sour
 - Support dev and prod envs
 
 ### High level design
-![alt text](docs/images/high_level_design.png)
+![alt text](docs/images/high_level.png)
